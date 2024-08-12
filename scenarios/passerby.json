@@ -1,0 +1,35 @@
+{
+  "name": "passerby",
+  "road": {
+    "length": 100
+  },
+  "commuters": [
+    {
+      "id": 1,
+      "vehicle": "ebike",
+      "start_position": [0, -1],
+      "desired_speed": 3.0,
+      "start_speed": 3.0,
+      "spawn_step": 1,
+      "relaxation_time": 0.03
+    },
+    {
+      "id": 2,
+      "vehicle": "ebike",
+      "start_position": [0, 0],
+      "desired_speed": 3.0,
+      "start_speed": 3.0,
+      "spawn_step": 200,
+      "relaxation_time": 0.03
+    },
+    {
+      "id": 2,
+      "vehicle": "ebike",
+      "start_position": [0, -1],
+      "desired_speed": 6.0,
+      "start_speed": 4.0,
+      "spawn_step": 400,
+      "relaxation_time": 0.03
+    }
+  ]
+}

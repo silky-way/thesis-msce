@@ -1,0 +1,10 @@
+{
+  "name": "out of bounds",
+  "commuters": [
+    {
+      "id": 1,
+      "start_position": [0, 5],
+      "relaxation_time": 0.5
+    }
+  ]
+}

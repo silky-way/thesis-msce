@@ -1,0 +1,17 @@
+{
+    "debug_acceleration_scale": 5.0,
+    "debug_velocity_scale": 5.0,
+
+    "border_force": 1.0,
+    "border_cap": 4.0,
+    "border_decay": 1.02,
+
+    "ema_factor": 0.6,
+    "nudge_acceleration_threshold": 1,
+    "nudge_velocity_offset": 1.5,
+    "nudge_strength": 1.7,
+
+    "y_velocity_dampening": 0.95,
+
+    "road_centre_offset": 1.5
+}
